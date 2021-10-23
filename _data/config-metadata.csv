@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Título,
 user,Entrevistado/a
 creator,Creador,
-date,Fecha de escucha aproximada,
+date,Fecha aproximada de escucha,
 description,Descripción,
 subject,Categorías,true
 location,Ubicación,true
