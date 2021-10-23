@@ -8,7 +8,6 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Buscar por categoría
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Use esta nube de palabras paranavegar a través de las categorías más importantes de la investigación. Cada una de estas categorías es una propuesta de próximas exhibiciones sobre la memoria sonora de Bogotá.
