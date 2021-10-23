@@ -1,5 +1,4 @@
 field,display_name,search
-title,Título,true
 user,Entrevistado/a,true
 date,Fecha aproximada de escucha,true
 subject,Categorías,true
