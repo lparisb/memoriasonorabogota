@@ -1,8 +1,10 @@
 display_name,stub,dropdown_parent
 Inicio,/
+Sobre la investigación,/about.html
 Búsqueda,/browse.html
 Categorías,/subjects.html
-Mapa,/map.html
+Colecciones,/
 Línea del tiempo,/timeline.html
+Mapa,/map.html
 Data,/data.html
-Sobre la investigación,/about.html
+
