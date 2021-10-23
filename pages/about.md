@@ -10,18 +10,26 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="La investigación;El archivo digital;Sobre el sitio" %}
 
-## About the Collection
+## La investigación
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+La investigación presentada hace parte del proyecto de grado “Memoria sonora de Bogotá: 
+la importancia del sonido en nuestra relación afectiva con los lugares”, presentado en la Maestría de Humanidades Digitales de la Universidad de Los Andes en noviembre de 2021. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Esta investigación tiene como fin analizar, a través de la memoria sonora, la relación afectiva de bogotanos que habitaron Teusaquillo y/o Chapinero entre 1960 y 1979 con estas dos localidades. A través de las historias orales de habitantes de estas localidades y una exploración teórica de los conceptos, se propuso una representación digital de las historias y recuerdos asociados a los sonidos de estos lugares con el fin de preservar y presentar esta relación como un insumo para investigaciones y proyectos sobre la historia de la ciudad.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+## El archivo digital
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Este archivo digital, resultado de las entrevistas realizadas durante la investigación, tiene como objetivo la preservación, presentación y divulgación de los resultados de la investigación. Su uso está dirigido a investigadores, actores culturales, alcaldías y otros proyectos afines para la realización de investigaciones posteriores sobre la historia y cultura de Bogotá. Asimismo, está dirigido a investigadores interesados en proponer archivos digitales y explorar las posibilidades que estos nos permiten.
+
+
+## Sobre el sitio
+
+Este sitio fue creado usando [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), 
+un proyecto realizado para crear colecciones digitales simples y gratuitas, usando [GitHub Pages](https://pages.github.com/) con: 
+
+- un CSV de metadatos
+- Una carpeta con los objetos de la colección.
+
