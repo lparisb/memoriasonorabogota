@@ -6,10 +6,6 @@ date,Fecha de escucha aproximada,
 description,Descripción,
 subject,Categorías,true
 location,Ubicación,true
-latitude,Latitud
-longitude,Longitud
-source,Source
-identifier,Source Identifier,,
 type,Tipo,
 format,Formato,
 rights,Derechos,
