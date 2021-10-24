@@ -1,6 +1,6 @@
 color_class,color
-primary, #cccccc
-secondary,#006BB3ff;
+primary, #006BB3ff;
+secondary,#999999;
 success, #D7031Cff;
 info,#D7031Cff;
 warning, #D7031Cff;
