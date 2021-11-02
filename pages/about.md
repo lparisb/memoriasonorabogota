@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="La investigación;El archivo digital;Sobre el sitio" %}
+{% include feature/nav-menu.html sections="La investigación;El archivo digital;Uso de datos;Sobre el sitio" %}
 
 ## La investigación
 
@@ -22,6 +22,10 @@ Esta investigación tiene como fin analizar, a través de la memoria sonora, la 
 
 Este archivo digital, resultado de las entrevistas realizadas durante la investigación, tiene como objetivo la preservación, presentación y divulgación de los resultados de la investigación. Su uso está dirigido a investigadores, actores culturales, alcaldías y otros proyectos afines para la realización de investigaciones posteriores sobre la historia y cultura de Bogotá. Asimismo, está dirigido a investigadores interesados en proponer archivos digitales y explorar las posibilidades que estos nos permiten.
 
+## Uso de datos 
+
+Los metadatos de este archivo son de acceso libre y su uso es gratuito. En la pestaña de "Data", se pueden descargar en dos formatos y obtener el link de acceso a los archivos .mp3. 
+Para utilizar los archivos .mp3, es obligatorio solicitar el permiso de los autores. Para esto, por favor enviar un correo a l.paris@uniandes.edu.co y especificar el uso que se les va a dar y el tiempo. Con esto, podremos solicitar el permiso a las personas entrevistadas y otorgar el permiso para su uso.
 
 ## Sobre el sitio
 
