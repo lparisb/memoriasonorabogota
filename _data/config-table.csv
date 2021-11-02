@@ -1,5 +1,9 @@
 field,display_name
 title,Título
+user, Persona Entrevistada
 date,Fecha
 description,Descripción
 subject,Categorías
+location, Ubicación
+latitude, Latitud
+longitude, Longitud
