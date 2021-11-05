@@ -11,9 +11,8 @@
     background:rgba(0,0,0,.5);
 }
 #home-banner {
-    background-image: url('{% include image/featured-image.html %}');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('{% include image/featured-image.html %}');
     background-size: cover;
-    background-color:(0,0,0,0.6);
     background-repeat: no-repeat;
     background-position: {{ site.data.theme.home-banner-image-position | default: 'center' }};
 }
